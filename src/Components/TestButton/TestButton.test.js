@@ -41,7 +41,7 @@ describe("MyFirstComponent - No props", () => {
         });
 
         it("should have a <h2> with the properly text", () => {
-            expect(container.text()).toEqual("Hello World");
+            expect(container.text()).toEqual("Hello World Check Btn");
         });
     });
 

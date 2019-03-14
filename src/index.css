@@ -3,3 +3,7 @@ body {
     font-size: 14px;
     background: #a9a9a912;
 }
+
+.test-btn-container {
+    text-align: center;
+}

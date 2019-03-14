@@ -8,7 +8,7 @@ export default class TestButton extends Component {
     };
 
     static defaultProps = {
-        title: 'Hello World'
+        title: 'Hello World Check Btn'
     };
 
     constructor(props) {
